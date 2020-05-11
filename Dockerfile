@@ -4,7 +4,7 @@ MAINTAINER tommi2day
 #env
 ENV DEBIAN_FRONTEND noninteractive
 ENV HOSTNAME mysql4
-ENV TZ Europe/Berlin
+ENV TZ Asia/Shanghai
 ENV TERM linux
 ENV PATH /usr/local/mysql/bin:$PATH
 
